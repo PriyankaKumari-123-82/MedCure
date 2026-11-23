@@ -46,3 +46,8 @@ This project provides general educational information only and is not a medical 
 The optional risk tab trains a logistic-regression classifier on the [UCI Early Stage Diabetes Risk Prediction dataset](https://doi.org/10.24432/C5VG8H) (CC BY 4.0). Its held-out metrics and limitations are shown in the app. The dataset has only 520 questionnaire records from one hospital in Bangladesh, so the score is not clinically validated or broadly generalizable. It is displayed as an experimental screening result—not a diagnosis or a personal disease probability. Patient symptom fields are used for prediction; the anonymous summary is sent to the configured LLM only when producing the cited RAG explanation.
 
 The heart-disease tab adapts the preprocessing, evaluation, saved-model, and prediction structure from the supplied `heart-disease-prediction.ipynb`. It deliberately does not reuse that notebook's unavailable synthetic Kaggle data or its perfect synthetic scores. Instead it trains logistic regression on the [UCI Heart Disease Cleveland dataset](https://doi.org/10.24432/C52P4X) (303 records, CC BY 4.0). Several inputs are specialist test results, and the model is an educational demonstration—not a clinical screening instrument.
+
+##Screnshots
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-33-36" src="https://github.com/user-attachments/assets/e7076d05-e586-4517-884b-33201112cb23" />
+
+<img width="1768" height="1036" alt="image" src="https://github.com/user-attachments/assets/9cd29b35-f26b-4ca4-a058-ad64c4b6d82b" />
