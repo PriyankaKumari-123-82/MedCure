@@ -47,7 +47,13 @@ The optional risk tab trains a logistic-regression classifier on the [UCI Early 
 
 The heart-disease tab adapts the preprocessing, evaluation, saved-model, and prediction structure from the supplied `heart-disease-prediction.ipynb`. It deliberately does not reuse that notebook's unavailable synthetic Kaggle data or its perfect synthetic scores. Instead it trains logistic regression on the [UCI Heart Disease Cleveland dataset](https://doi.org/10.24432/C52P4X) (303 records, CC BY 4.0). Several inputs are specialist test results, and the model is an educational demonstration—not a clinical screening instrument.
 
-##Screnshots
-<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-33-36" src="https://github.com/user-attachments/assets/e7076d05-e586-4517-884b-33201112cb23" />
-
+## Screenshots
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-33-36" src="https://github.com/user-attachments/assets/66028e81-b69c-4185-a5d3-5b6424ddc83d" />
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-33-48" src="https://github.com/user-attachments/assets/18a9141f-0fc2-4028-acff-a443bc1e1284" />
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-35-02" src="https://github.com/user-attachments/assets/22b899c1-8cd5-4e56-a421-70ae2df2bc37" />
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-35-15" src="https://github.com/user-attachments/assets/d2ee3132-e82c-4469-bbaa-d83e9470a715" />
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-35-24" src="https://github.com/user-attachments/assets/8ea8790b-df23-4766-a57c-a0aa581fb622" />
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-35-43" src="https://github.com/user-attachments/assets/ee976ce2-bf00-42b8-bf63-17422ae6e0f1" />
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-35-55" src="https://github.com/user-attachments/assets/ab5518b3-cbe0-43d9-8f91-fff0f40d0455" />
+<img width="1768" height="1036" alt="Screenshot From 2026-11-23 14-36-09" src="https://github.com/user-attachments/assets/5ebecf9f-9b35-4aa9-9f66-fa7c13b5b81c" />
 <img width="1768" height="1036" alt="image" src="https://github.com/user-attachments/assets/9cd29b35-f26b-4ca4-a058-ad64c4b6d82b" />
