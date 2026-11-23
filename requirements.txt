@@ -1,0 +1,10 @@
+streamlit>=1.40,<2
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+pypdf>=5.1,<6
+faiss-cpu>=1.9,<2
+openai>=1.57,<2
+python-dotenv>=1.0,<2
+numpy>=1.26,<3
+scikit-learn>=1.5,<2
+joblib>=1.4,<2

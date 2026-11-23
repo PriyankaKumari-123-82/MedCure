@@ -1,0 +1,50 @@
+[
+  {
+    "id": "WHO-HYPERTENSION",
+    "title": "Hypertension",
+    "publisher": "World Health Organization",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension"
+  },
+  {
+    "id": "CDC-DIABETES",
+    "title": "Diabetes Basics",
+    "publisher": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/diabetes/about/index.html"
+  },
+  {
+    "id": "NHLBI-ASTHMA",
+    "title": "What Is Asthma?",
+    "publisher": "National Heart, Lung, and Blood Institute",
+    "url": "https://www.nhlbi.nih.gov/sites/default/files/publications/20-HL-8121WhatisAsthma.pdf"
+  },
+  {
+    "id": "WHO-AMR",
+    "title": "Antimicrobial resistance",
+    "publisher": "World Health Organization",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance"
+  },
+  {
+    "id": "WHO-HEALTHY-DIET",
+    "title": "Healthy diet",
+    "publisher": "World Health Organization",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+  },
+  {
+    "id": "CDC-HEART-DISEASE",
+    "title": "About Heart Disease",
+    "publisher": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/heart-disease/about/index.html"
+  },
+  {
+    "id": "NIDDK-CKD",
+    "title": "What Is Chronic Kidney Disease?",
+    "publisher": "National Institute of Diabetes and Digestive and Kidney Diseases",
+    "url": "https://www.niddk.nih.gov/health-information/kidney-disease/chronic-kidney-disease-ckd/what-is-chronic-kidney-disease"
+  },
+  {
+    "id": "WHO-DEPRESSIVE-DISORDER",
+    "title": "Depressive disorder (depression)",
+    "publisher": "World Health Organization",
+    "url": "https://www.who.int/news-room/fact-sheets/detail/depression"
+  }
+]
